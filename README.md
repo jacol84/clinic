@@ -1,4 +1,5 @@
 # clinic 
 Autorzy
-Wojtek
+Wojciech
 Jacek
+
